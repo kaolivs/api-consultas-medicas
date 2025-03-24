@@ -1,0 +1,30 @@
+# Diretórios e arquivos da IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Diretórios de build
+/target/
+
+# Logs
+*.log
+
+# Configs temporários
+*.tmp
+*.temp
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Banco de dados H2 local
+*.h2.db
+*.mv.db
+
+# Maven
+.mvn/
+!**/mvnw
+!**/mvnw.cmd
